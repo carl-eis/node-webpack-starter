@@ -2,3 +2,4 @@ node_modules/
 dependency-lists/*.txt
 *.log
 dist/
+.DS_STORE
